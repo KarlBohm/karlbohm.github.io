@@ -18,6 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
+
+
 title: Karl Böhm's blog
 email: thisisnotanameagain@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -32,6 +37,7 @@ theme: minima
 # show_excerpts: true
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
