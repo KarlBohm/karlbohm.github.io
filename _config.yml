@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-markdown: kramdown
-kramdown:
-   math_engine: mathjax
+# markdown: kramdown
+# kramdown:
+# math_engine: mathjax
 
 
 title: Karl Böhm's blog
