@@ -37,6 +37,9 @@ theme: minima
 # show_excerpts: true
 plugins:
   - jekyll-feed
+  
+# Timezone
+timezone: Asia/Shanghai
 
 
 # Exclude from processing.
