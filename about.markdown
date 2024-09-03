@@ -10,7 +10,7 @@ permalink: /about/
 > You have a vast, vast soul and I will always, always, always come back to it. 
 
 ## 关于本博客
-之所以选择个人主页而不是更「现代化」方式，主要是受到了[李如一](https://blog.yitianshijie.net/)的影响。<small>如果有精力，笔者是有兴趣把本站迁移到某个支持 ActivityPub 的框架上的。换言之，这件事短期内恐怕不会发生。</small>
+之所以选择个人主页而不是更「现代化」方式，主要是受到了[李如一](https://blog.yitianshijie.net/)的影响。<small>如果有精力，笔者是有兴趣把本站迁移到某个支持 ActivityPub 的框架上的。换言之，这件事短期内大概不会发生。</small>
 理想情况下，笔者会在本站以月为单位记录一点文笔糟糕的流水账，作为支撑自己的一种方式。考虑到这是本人第 893 次尝试连载博客，断更应该是相当正常的事情。
 
 博客内容也比较糟糕，虽然笔者一直仰慕[草莓](https://chicaomei.substack.com/)的文笔与知识面，但真正学来的恐怕也只有断更一件事。作为注意力难以集中且没啥学识的家伙，能放上来的只有些毫无见地的评论罢了。
